@@ -1,2 +1,3 @@
 # test
-New addition to thing
+- New addition to thing
+- Branch addition to thing
